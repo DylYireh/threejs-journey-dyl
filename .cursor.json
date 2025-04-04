@@ -1,0 +1,20 @@
+{
+  "defaultModel": "gpt-4o",
+  "autocompleteModel": "gpt-4o-mini",
+  "inlineChatModel": "gpt-4o",
+  "askCodebaseModel": "claude-3.7-sonnet-max",
+  "longContextModel": "gemini-2.5-pro-max",
+  "fallbackModels": [
+    "claude-3.7-sonnet",
+    "o1",
+    "gemini-2.5-pro-exp-03-25"
+  ],
+  "models": [
+    "gpt-4o",
+    "gpt-4o-mini",
+    "claude-3.7-sonnet-max",
+    "claude-3.7-sonnet",
+    "gemini-2.5-pro-max",
+    "o1"
+  ]
+}
